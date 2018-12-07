@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieException\bin\Debug\MovieException.dll
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieException\bin\Debug\MovieException.pdb
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieException\obj\Debug\MovieException.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieException\obj\Debug\MovieException.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieException\obj\Debug\MovieException.dll
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieException\obj\Debug\MovieException.pdb

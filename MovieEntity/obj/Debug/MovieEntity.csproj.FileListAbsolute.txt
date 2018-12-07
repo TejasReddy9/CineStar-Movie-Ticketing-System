@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieEntity\bin\Debug\MovieEntity.dll
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieEntity\bin\Debug\MovieEntity.pdb
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieEntity\obj\Debug\MovieEntity.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieEntity\obj\Debug\MovieEntity.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieEntity\obj\Debug\MovieEntity.dll
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieEntity\obj\Debug\MovieEntity.pdb

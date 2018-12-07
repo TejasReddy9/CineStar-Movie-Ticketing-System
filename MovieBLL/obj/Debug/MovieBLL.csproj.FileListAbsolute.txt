@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieBLL\bin\Debug\MovieBLL.dll
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieBLL\bin\Debug\MovieBLL.pdb
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieBLL\bin\Debug\MovieDAL.dll
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieBLL\bin\Debug\MovieEntity.dll
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieBLL\bin\Debug\MovieException.dll
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieBLL\bin\Debug\MovieDAL.pdb
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieBLL\bin\Debug\MovieEntity.pdb
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieBLL\bin\Debug\MovieException.pdb
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieBLL\obj\Debug\MovieBLL.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieBLL\obj\Debug\MovieBLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieBLL\obj\Debug\MovieBLL.dll
+C:\Users\admin\Desktop\CineStarMovie\CineStarMovie\MovieBLL\obj\Debug\MovieBLL.pdb
